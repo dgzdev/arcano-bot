@@ -6,8 +6,8 @@ const fs = require("fs")
 // Initialize the Firebase
 const Firebase = require("firebase-util.js")
 const Database = new Firebase({
-    apiKey: "HIntYwt21JKLgppDzgMNvuP4E9Usz2sfAfXKOSgV",
-    databaseURL: "https://arcanos-88071-default-rtdb.firebaseio.com"
+    apiKey: "*********",
+    databaseURL: "*********"
 })
 
 // Initialize the dotenv
